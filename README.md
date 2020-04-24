@@ -1,6 +1,8 @@
 # SARS-CoV-2-scripts
 
-linkage-disequilibrium: https://github.com/StrayLamb2/plink_deploy_and_run 
+linkage-disequilibrium 
+
+https://github.com/StrayLamb2/plink_deploy_and_run 
 
 selective-sweeps 
 
